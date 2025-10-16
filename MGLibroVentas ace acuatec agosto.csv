@@ -1,0 +1,16 @@
+Libro de Ventas;;;;;;;;;;;
+Empresa :ACE AQUATEC SPA / Periodo : 01-08-25 al 31-08-25;;;;;;;;;;;
+Tipo.Doc.;Numero;Fecha;Titulares;;R.U.T.;Afecto;I.V.A.;;Exento;Otros Imp.;Total
+Factura de Venta Electrónica;;;;;;;;;;;
+Factura de Venta Electrónica;15;21-08-25;TRUSAL S A;;965667407;3.036.079;576.855;;;;3.612.934
+Factura de Venta Electrónica;16;25-08-25;ABICK S.A.;;761133268;781.926;148.566;;;;930.492
+Factura de Venta Electrónica;17;25-08-25;ABICK S.A.;;761133268;1.179.155;224.039;;;;1.403.194
+Factura de Venta Electrónica;18;25-08-25;ABICK S.A.;;761133268;1.179.155;224.039;;;;1.403.194
+Factura de Venta Electrónica;19;28-08-25;ABICK S.A.;;761133268;92.021;17.484;;;;109.505
+Factura de Venta Electrónica;20;28-08-25;ABICK S.A.;;761133268;5.043.708;958.305;;;;6.002.013
+Total ;Factura de Venta Electrónica;;;;;11.312.044;2.149.288;;;;13.461.332
+Tipo Documento;;;;Cantidad Docs.;Exento;;Afecto;I.V.A.;;Otros Imp.;Total
+Factura de Venta Electrónica;;;;6;;11.312.044;;2.149.288;;;13.461.332
+ ;;;;;;;;;;;
+;;;;;;;;Total General :;;13.461.332;
+ ;;;;;;;;;;;
